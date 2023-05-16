@@ -1,0 +1,121 @@
+.job-item-details-container {
+  background-color: black;
+
+  width: 100%;
+  padding-top: 35px;
+  padding-bottom: 25px;
+}
+.job-item-details-content-container {
+  background-color: #202020;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  width: 90%;
+  padding: 20px;
+  margin: auto;
+}
+.job-item-details-description-container {
+  margin-top: 10px;
+}
+.job-item-details-description-website-link-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.job-item-details-description-title {
+  color: white;
+  font-weight: 500;
+}
+.job-item-details-description-text {
+  color: #f8fafc;
+  margin-top: 10px;
+}
+
+.job-item-details-website-link {
+  display: flex;
+  align-items: center;
+}
+.job-item-details-visit-text {
+  margin-right: 5px;
+  font-size: 18px;
+
+  color: #6366f1;
+}
+.job-item-details-external-link {
+  font-size: 18px;
+  color: #6366f1;
+}
+
+.job-item-details-skills-container {
+  margin-top: 10px;
+}
+
+.job-item-details-skills-title {
+  color: #f8fafc;
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.job-item-details-skills-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.job-item-details-skills-list-item {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.job-item-details-skills-name {
+  color: white;
+}
+
+.job-item-details-skills-life-at-company-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.job-item-details-skills-life-at-company-content-container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.job-item-details-skills-life-at-company-content-title {
+  color: #f8fafc;
+}
+
+.job-item-details-skills-life-at-company-image {
+  width: 25%;
+}
+
+.job-item-details-skills-life-at-company-description {
+  color: white;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.similar-jobs-container {
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.similar-jobs-list {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+}
+.similar-jobs-title {
+  color: #f8fafc;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.job-item-details-skills-list-item-image {
+  margin-right: 10px;
+}

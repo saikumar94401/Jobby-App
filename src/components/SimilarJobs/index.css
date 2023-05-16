@@ -1,0 +1,10 @@
+.sample {
+  color: white;
+}
+
+.similar-job-list-item {
+  background-color: #202020;
+  width: 30%;
+  margin-right: 30px;
+  border-radius: 10px;
+}

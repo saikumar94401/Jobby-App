@@ -1,0 +1,90 @@
+.job-item-list-item {
+  background-color: #202020;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  width: 80%;
+  padding: 20px;
+}
+
+.star-rating-icon {
+  color: #fbbf24;
+}
+.job-item-logo-container {
+  display: flex;
+}
+.job-item-title-rating-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.job-item-company-logo {
+  height: 60px;
+  margin-right: 20px;
+}
+.job-item-title {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+}
+.job-item-rating-container {
+  display: flex;
+  align-items: center;
+}
+.star-rating-icon {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.job-item-rating {
+  color: white;
+  font-size: 18px;
+}
+
+.job-item-location-internship-package-container {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.job-item-location-internship-container {
+  display: flex;
+}
+.job-item-location-container {
+  display: flex;
+  margin-right: 20px;
+}
+
+.job-item-location-icon {
+  color: white;
+  font-size: 20px;
+  margin-right: 8px;
+}
+
+.job-item-location {
+  color: white;
+  font-size: 14px;
+}
+
+.job-item-package {
+  color: white;
+  font-weight: 500;
+}
+
+.hrs-line {
+  color: #b6c5ff;
+  width: 100%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.job-item-description-title {
+  color: white;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.job-item-description-text {
+  color: white;
+  margin-top: 10px;
+}
